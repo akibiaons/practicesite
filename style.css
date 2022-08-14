@@ -4,6 +4,11 @@ html {
 }
 /* background-color: #060a0f; */
 
+
+div.navbar {
+    background-color: white;
+    border: 1px solid white;
+}
 .navbar {
     text-align: right;
     background-color: #E6E6E6;
